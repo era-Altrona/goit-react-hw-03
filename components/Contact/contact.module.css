@@ -1,0 +1,24 @@
+.name {
+  font-style: normal;
+}
+.contactContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact {
+  margin-right: 10px;
+}
+.btnDelete {
+  height: 40px;
+  background-color: #66bb6a;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+.btnDelete:hover:focus {
+  background-color: #43a047;
+}

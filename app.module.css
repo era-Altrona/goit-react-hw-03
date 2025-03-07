@@ -1,0 +1,11 @@
+.app {
+  background-color: #e8f5e9;
+  align-self: center;
+  justify-self: center;
+}
+.title {
+  text-align: center;
+  color: #388e3c; /* Темно-зелений */
+  margin-top: 0px;
+  font-size: 40px;
+}

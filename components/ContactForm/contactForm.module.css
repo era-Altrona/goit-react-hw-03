@@ -1,0 +1,28 @@
+.form {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.formName,
+.formNumber {
+  margin-bottom: 10px;
+  flex-direction: column;
+  display: flex;
+  font-size: medium;
+}
+.formBtn {
+  height: 40px;
+  background-color: #66bb6a;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+.error {
+  color: rgb(247, 71, 71);
+  margin: 4px;
+}
